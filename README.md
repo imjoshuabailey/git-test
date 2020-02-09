@@ -1,1 +1,1 @@
-A repository for tests with git
+A repository to learn how to create a repository
